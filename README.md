@@ -69,7 +69,7 @@ This is a RESTful API built using **Express.js** and **MongoDB (Mongoose)** that
 
 ## API Endpoints
 
-Base URL: `https://document-api-vh9o.onrender.com/api/documents/api/documents/`
+Base URL: `https://document-api-vh9o.onrender.com/api/documents/`
 
 | Method | Endpoint | Description             |
 | ------ | -------- | ----------------------- |
